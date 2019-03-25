@@ -29,3 +29,9 @@
 ||Project development process|How did you perform relative to your project goals? When you ran into a roadblock, were you able to recognize issues and find ways to get back on track? (Absolute success is not required.)
 |100	|**`Total`**|
 
+
+Status Legend:
+| - | Incomplete 	|
+| + | Complete 		|
+
+| Status | Points | Item | Implementation |
