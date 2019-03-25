@@ -5,14 +5,14 @@
  3. Please note that you will need to demonstrate or document how you meet these rubric items.
  4. If you have questions about what you need, **Talk to Me**. 
 
-+ = complete, - = incomplete, ? = ask professor
+\+ = complete, - = incomplete, ? = ask professor
 
 | Points | Item | Description |
 | ------------- |-------------|-------------|
 |20-30|**`Project Structure`**|Percentage depends on existing vs new project
 |+|Appropriate licensing, README, issue tracker, discussion forum| Does your project have the artifacts we expect and can you find them?|
 |+|Repository| Do you have a public repostory for your project?|
-|-|Test infrastructure| Does your project have testing and/or conitnuous integration and do you use it?|
+|-|Test infrastructure| Does your project have testing and/or continuous integration and do you use it?|
 |-|Contribution guidelines|Does your project have contribution guidelines and can you find them?|
 |?|Website|Does your project have a website and can you find them?|
 |-|Code of conduct|Does your project have a code of conduct and can you find it?|
