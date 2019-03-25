@@ -6,6 +6,7 @@
  4. If you have questions about what you need, **Talk to Me**. 
 
 + = complete, - = incomplete, ? = ask professor
+
 | Points | Item | Description |
 | ------------- |-------------|-------------|
 |20-30|**`Project Structure`**|Percentage depends on existing vs new project
