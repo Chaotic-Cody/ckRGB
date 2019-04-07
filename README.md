@@ -5,15 +5,6 @@ Allow Lua scripting modules to control RGB back-lighting on keyboards.
 K95 Platinum
 
 ### Milestones:
-1. Project structure
-2. Keyboard detection (Corsair K95)
-3. Scripting language integration (Lua)
-4. Lua API
-5. (Graphical) User Interface implementation
-6. Custom profiles and presets
-7. Audio output detection
-8. Expand keyboard support
-
 | Milestone | Contributing | Progress |
 | ------------- |-------------|-------------|
 |Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|In progress|
