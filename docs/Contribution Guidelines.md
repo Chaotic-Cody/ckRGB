@@ -24,8 +24,6 @@ Here are a couple of friendly tutorials you can include: http://makeapullrequest
 
 > Working on your first Pull Request? You can learn how from this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-[source: [React](https://github.com/facebook/react/blob/master/CONTRIBUTING.md#pull-requests)]  
-
 ### Submitting a Contribution
 #### Large Contributions
 >For something that is bigger than a one or two line fix:
