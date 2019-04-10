@@ -58,5 +58,5 @@ Simply use github's bug tracker to report bugs otherwise.
 ### Contributions Acceptance
 > The core team looks at Pull Requests on a regular basis. No formal schedule has been put in place given the currently limited scope of this project.
 
-# Community
+### Community
 > You can chat with the core team on Discord. Please email mitraa3@rpi.edu for specific channel information.
