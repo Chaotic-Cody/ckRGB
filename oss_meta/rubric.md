@@ -15,8 +15,8 @@
 |-|Test infrastructure| Does your project have testing and/or continuous integration and do you use it?|
 |-|Contribution guidelines|Does your project have contribution guidelines and can you find them?|
 |?|Website|Does your project have a website and can you find them?|
-|-|Code of conduct|Does your project have a code of conduct and can you find it?|
-|-| Style guidelines|Does your project have a style guideline document and can you find it?|
+|+|Code of conduct|Does your project have a code of conduct and can you find it?|
+|+| Style guidelines|Does your project have a style guideline document and can you find it?|
 |+| Communications channels, blogs and status updates|Does your project have communications channels and can you find them?|
 |30-40|**`Contributions`**|Percentage depends on new vs existing project|
 |-|Community involvement Pull Requests, Pushing Code| How much have you contributed locally and/or offered back to the external community?|
