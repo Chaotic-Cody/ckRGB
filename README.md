@@ -12,6 +12,6 @@ K95 Platinum
 |Scripting language integration (Lua)|N/A|TODO|
 |Lua API|N/A|TODO|
 |(Graphical) User Interface implementation|Lucas Standaert, Ziqi Fang|In progress|
-|Custom profiles and presets|N/A|TODO|
+|Custom profiles and presets|Adi|In progress|
 |Audio output detection|N/A|TODO|
 |Expand keyboard support|N/A|TODO|

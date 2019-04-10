@@ -13,7 +13,7 @@
 |+|Appropriate licensing, README, issue tracker, discussion forum| Does your project have the artifacts we expect and can you find them?|
 |+|Repository| Do you have a public repostory for your project?|
 |-|Test infrastructure| Does your project have testing and/or continuous integration and do you use it?|
-|-|Contribution guidelines|Does your project have contribution guidelines and can you find them?|
+|+|Contribution guidelines|Does your project have contribution guidelines and can you find them?|
 |?|Website|Does your project have a website and can you find them?|
 |+|Code of conduct|Does your project have a code of conduct and can you find it?|
 |+| Style guidelines|Does your project have a style guideline document and can you find it?|
