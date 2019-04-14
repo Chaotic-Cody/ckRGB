@@ -8,8 +8,8 @@ K95 Platinum
 | Milestone | Contributing | Progress |
 | ------------- |-------------|-------------|
 |Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|In progress|
-|Keyboard detection (Corsair K95)|Cody Messina|In progress|
-|Scripting language integration (Lua)|N/A|TODO|
+|Keyboard detection (Corsair K95)|Cody Messina|✓|
+|Scripting language integration (Lua)|Cody Messina, Lucas Standaert, Kaylan Johnson|In Progress|
 |Lua API|N/A|TODO|
 |(Graphical) User Interface implementation|Lucas Standaert, Ziqi Fang|In progress|
 |Custom profiles and presets|Adi|In progress|
