@@ -12,6 +12,6 @@ K95 Platinum
 |Scripting language integration (Lua)|Cody Messina, Lucas Standaert, Kaylan Johnson|In Progress|
 |Lua API|N/A|TODO|
 |(Graphical) User Interface implementation|Lucas Standaert, Ziqi Fang|In progress|
-|Custom profiles and presets|Adi|In progress|
+|Custom profiles and presets|Aditya Mitra|In progress|
 |Audio output detection|N/A|TODO|
 |Expand keyboard support|N/A|TODO|
