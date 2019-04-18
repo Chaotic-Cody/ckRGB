@@ -5,6 +5,9 @@
 #ifdef WINDOWS
 #include <windows.h>
 #endif
+#include "lauxlib.h"
+#include "lua.h"
+#include "lualib.h"
 
 libusb_device *get_device(libusb_device **devs, uint16_t productID, uint16_t vendorID) {
 
