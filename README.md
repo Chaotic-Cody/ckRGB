@@ -9,8 +9,8 @@ K95 Platinum
 | ------------- |-------------|-------------|
 |Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|In progress|
 |Keyboard detection (Corsair K95)|Cody Messina|✓|
-|Reverse engineering data format|Kaylan Johnson, Cody Messina|In Progress|
-|Building a keymap|Kaylan Johnson, Cody Messina|In Progress|
+|Reverse engineering data format|Kaylan Johnson, Cody Messina|In progress|
+|Building a keymap|Kaylan Johnson, Cody Messina|In progress|
 |Scripting language integration (Lua)|Cody Messina, Lucas Standaert, Kaylan Johnson|✓|
 |Lua API|Lucas Standaert, Cody Messina|In progress|
 |(Graphical) User Interface implementation|Lucas Standaert, Ziqi Fang|In progress|
