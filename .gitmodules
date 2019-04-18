@@ -1,0 +1,3 @@
+[submodule "dependencies/jsmn_alt"]
+	path = dependencies/jsmn_alt
+	url = https://github.com/zserge/jsmn.git
