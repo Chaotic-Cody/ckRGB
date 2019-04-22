@@ -7,7 +7,7 @@ K95 Platinum
 ### Milestones:
 | Milestone | Contributing | Progress |
 | ------------- |-------------|-------------|
-|Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|In progress|
+|Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|✓|
 |Keyboard detection (Corsair K95)|Cody Messina|✓|
 |Reverse engineering data format|Kaylan Johnson, Cody Messina|In progress|
 |Building a keymap|Kaylan Johnson, Cody Messina|In progress|
