@@ -16,20 +16,13 @@ sudo apt-get install make
 
 ### Cross compile the application using mingw to build a Windows executable
 
-Linux: 
-
-gcc libusbtestsuite.c -o test.exe -lusb-1.0
-
 Linux -> Windows Cross Compilation: 
 
-1. cd into ckRGB directory
+1. cd into ckRGB/src
 2. Run 'make main'
 
-# In Progress Instructions
+This will cross-compile the program with libusb1.0, Lua5.2, and Jsmn as statically linked libraries into a Windows executable using minGW.
 
-Statically link jsmn with -ljsmn
-Compile jsmn example: 
-gcc -I../ simple.c -L../ -ljsmn
-gcc -I../ jsondump.c -L../ -ljsmn -o jsondump.out
+### Running the application
 
-x86_64-w64-mingw32-gcc -I./dependencies/libusb-1.0.22/include -o testusb.exe libusbtestsuite.c -L./dependencies/libusb-1.0.22/MinGW64/static -lusb-1.0 -D WINDOWS
+TODO: Get ckRGB application functionality implemented.
