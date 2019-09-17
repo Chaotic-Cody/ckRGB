@@ -43,7 +43,7 @@ int main (int argc, char **argv) {
 	// Information for these will be loaded from a JSON file using jsmn, but are hardcoded for now (very easy to swap out)
 	char keyboard_name[100] = "Corsair K95 RGB Platinum"; 
 	uint16_t productID = 0x1B2D;
-	productID = 0x1B49;
+	productID = 0x1B2D;
 	uint16_t vendorID = 0x1B1C;
 
 	// Device we'll be working with
