@@ -7,13 +7,14 @@ K95 Platinum
 ### Milestones:
 | Milestone | Contributing | Progress |
 | ------------- |-------------|-------------|
-|Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|In progress|
+|Project structure|Cody Messina, Kaylan Johnson, Lucas Standaert, Aditya Mitra, Ziqi Fang|✓|
 |Keyboard detection (Corsair K95)|Cody Messina|✓|
-|Reverse engineering data format|Kaylan Johnson, Cody Messina|In progress|
-|Building a keymap|Kaylan Johnson, Cody Messina|In progress|
 |Scripting language integration (Lua)|Cody Messina, Lucas Standaert, Kaylan Johnson|✓|
+|Reverse engineering data format|Cody Messina|In progress|
+|Building a keymap|Cody Messina|In progress|
 |Lua API|Lucas Standaert, Cody Messina|In progress|
-|(Graphical) User Interface implementation|Lucas Standaert, Ziqi Fang|In progress|
-|Custom profiles and presets|Aditya Mitra|In progress|
+|Custom profiles|Cody Messina|In progress|
+|User tutorials|Cody Messina|In progress|
+|(Graphical) User Interface implementation|N/A|TODO|
 |Audio output detection|N/A|TODO|
 |Expand keyboard support|N/A|TODO|
