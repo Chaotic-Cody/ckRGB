@@ -27,6 +27,12 @@ libusb_device *get_device(libusb_device **devs, uint16_t productID, uint16_t ven
 		#endif
 
 		if (desc.idVendor == vendorID && desc.idProduct == productID) {
+
+			#ifdef DEBUG
+			uint8_t address = libusb_get_device_address(devs[i]);
+			printf("Keyboard address: %d\n", address);
+			#endif
+
 			return devs[i];
 		}
 
