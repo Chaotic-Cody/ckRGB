@@ -11,4 +11,4 @@ test: hardware_test.c
 
 clean: 
 	$(RM) main.exe
-	$(RM) test.exe
+	$(RM) hardware_test.exe
