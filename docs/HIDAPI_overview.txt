@@ -1,0 +1,21 @@
+https://github.com/signal11/hidapi/blob/master/hidapi/hidapi.h
+
+hid_init(); - returns 0 on success, -1 on error
+
+HID_API_EXPORT hid_device * HID_API_CALL hid_open(unsigned short vendor_id, unsigned short product_id, const wchar_t *serial_number); - returns pointer to hid_device object, or NULL on failure
+
+int  HID_API_EXPORT HID_API_CALL hid_write(hid_device *device, const unsigned char *data, size_t length); - main call to send messages to the keyboard
+
+void HID_API_EXPORT HID_API_CALL hid_close(hid_device *device);
+
+hit_exit(); - returns 0 on success, -1 on error
+
+-- Possibly don't need to use these if I can use hid_open() and hid_close()
+
+struct hid_device_info HID_API_EXPORT * HID_API_CALL hid_enumerate(unsigned short vendor_id, unsigned short product_id); - returns a pointer to a linked list of type struct hid_device, containing information about the hid devices attached to the system, or NULL if failed.
+
+
+
+void  HID_API_EXPORT HID_API_CALL hid_free_enumeration(struct hid_device_info *devs); - frees the linked list created with hid_enumerate()
+
+https://github.com/signal11/hidapi/issues/373#issuecomment-410151632
